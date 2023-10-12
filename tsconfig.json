@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "./dist",
+    "rootDir": "./src", // Измените это значение на "./src"
+    "strict": true
+  },
+  "include": ["src/**/*.ts"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "hw_49",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "npm run build && node dist/board.js",
+    "board": "npm run dev"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
